@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Breno Henrique</h1>
 <h3 align="center">A brazilian high school student, Mechatronics technician and passionate on Computational Physics.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=br3n0henrique&label=Profile%20views&color=0e75b6&style=flat" alt="br3n0henrique" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brenopelegrin&label=Profile%20views&color=0e75b6&style=flat" alt="br3n0henrique" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=br3n0henrique" alt="br3n0henrique" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brenopelegrin" alt="br3n0henrique" /></a> </p>
 
 - 🔭 I’m currently working on [solarconcentrator](https://github.com/br3n0henrique/solarconcentrator)
 
