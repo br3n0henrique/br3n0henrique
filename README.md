@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brenopelegrin" alt="br3n0henrique" /></a> </p>
 
-- 🔭 I’m currently working on [solarconcentrator](https://github.com/br3n0henrique/solarconcentrator)
-
-- 🌱 I’m currently learning **about parabolic trough collectors (PTC).**
+- 🔭 I’m currently working on [brenopelegrin.github.io](https://github.com/brenopelegrin/brenopelegrin.github.io)
 
 - 🔭 I’m currently working on [py_oblaunch](https://github.com/br3n0henrique/py_oblaunch)
+
+- 🌱 I’m currently learning **about parabolic trough collectors (PTC).**
 
 - 💬 Ask me about **Physics, embedded projects.**
 
 - 📫 How to reach me: **send an e-mail to brenohqsilva@gmail.com or reach me on Instagram.**
 
-- ⚡ Fun fact: **I like Philosophy.**
+- ⚡ Fun fact: **I enjoy Philosophy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
