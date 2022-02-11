@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brenopelegrin" alt="br3n0henrique" /></a> </p>
 
-<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/brenopelegrin/brenopelegrin/main/lattes-icon.png)](http://lattes.cnpq.br/3052573016505608" alt="Currículo Lattes">[lattes](http://lattes.cnpq.br/3052573016505608)
+<h1> <img src="https://raw.githubusercontent.com/brenopelegrin/brenopelegrin/main/lattes-icon.png"
+  width="128"
+  height="128"
+  style="float:left;">
+    [Currículo Lattes](http://lattes.cnpq.br/3052573016505608)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
