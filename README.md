@@ -5,6 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brenopelegrin" alt="br3n0henrique" /></a> </p>
 
+<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/brenopelegrin/brenopelegrin/main/lattes-icon.png)](http://lattes.cnpq.br/3052573016505608" alt="Currículo Lattes">[lattes](http://lattes.cnpq.br/3052573016505608)
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 - 🔭 I’m currently working on [brenopelegrin.github.io](https://github.com/brenopelegrin/brenopelegrin.github.io)
 
 - 🔭 I’m currently working on [py_oblaunch](https://github.com/br3n0henrique/py_oblaunch)
