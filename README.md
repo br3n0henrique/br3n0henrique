@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brenopelegrin" alt="br3n0henrique" /></a> </p>
 
-<h3> <img src="https://raw.githubusercontent.com/brenopelegrin/brenopelegrin/main/lattes-icon.png"
-  width="32"
-  height="32"
-  style="float:left;"> <a href="http://lattes.cnpq.br/3052573016505608">Lattes CV</a></h3>
+<p> <img src="https://raw.githubusercontent.com/brenopelegrin/brenopelegrin/main/lattes-icon.png"
+  width="16"
+  height="16"
+  style="float:left;"> <a href="http://lattes.cnpq.br/3052573016505608">Lattes CV</a></p>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
