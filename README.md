@@ -17,15 +17,15 @@
 
 - 🔭 I’m currently working on [brenopelegrin.github.io](https://github.com/brenopelegrin/brenopelegrin.github.io)
 
-- 🔭 I’m currently working on [py_oblaunch](https://github.com/br3n0henrique/py_oblaunch)
+- 🔭 I’m currently working on [physicsjs](https://github.com/brenopelegrin/physicsjs)
 
-- 🌱 I’m currently learning **about parabolic trough collectors (PTC).**
+- 🌱 I’m currently learning **about JavaScript and web frameworks.**
 
 - 💬 Ask me about **Physics, embedded projects.**
 
-- 📫 How to reach me: **send an e-mail to brenohqsilva@gmail.com or reach me on Instagram.**
+- 📫 How to reach me: **send an e-mail to brenohqsilva@gmail.com, breno.pelegrin@usp.br or reach me on Instagram.**
 
-- ⚡ Fun fact: **I enjoy Philosophy.**
+- ⚡ Fun fact: **I enjoy philosophy and some strange msuic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
