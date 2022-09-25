@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Breno Henrique</h1>
-<h3 align="center">A undergrad student of Computational Physics at the University of São Paulo. Also, a Mechatronics technician by the Federal Institute of São Paulo.</h3>
+<h3 align="center">An undergrad student of Computational Physics at the University of São Paulo. Also, a Mechatronics technician by the Federal Institute of São Paulo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenopelegrin&label=Profile%20views&color=0e75b6&style=flat" alt="br3n0henrique" /> </p>
 
