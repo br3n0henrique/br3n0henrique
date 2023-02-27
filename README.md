@@ -5,7 +5,18 @@
 </div>
   
 
-### <div align="center">I'm Breno, a undergrad student in Computational Physics at University of São Paulo that codes some cool stuff  👨‍💻</div>  
+### <div align="center">I'm Breno, an undergrad student in Computational Physics at University of São Paulo that codes some cool stuff  👨‍💻</div>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=brenopelegrin&&style=flat-square" align="center" />
+            <a href="https://www.buymeacoffee.com/brenopelegrin" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a>
+</div>  
+ 
 
 
 - 🔭 I’m currently working on [physicsjs](https://github.com/brenopelegrin/physicsjs), [flask-tasks-docker](https://github.com/brenopelegrin/flask-tasks-docker) and [spottedcaaso](https://github.com/brenopelegrin/spottedcaaso)  
@@ -115,25 +126,5 @@ There isn't anything here, yet.
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=brenopelegrin&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/brenopelegrin" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 
