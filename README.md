@@ -1,9 +1,11 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+  
+#  &#x3c; 👋 Hello, world! &#x2f;&#x3e;
+  
+</div>
   
 
-### <div align="center">I'm Breno, a undergrad student in Computational Physics @ University of São Paulo that codes some cool stuff  👨‍💻</div>  
+### <div align="center">I'm Breno, a undergrad student in Computational Physics at University of São Paulo that codes some cool stuff  👨‍💻</div>  
 
 
 - 🔭 I’m currently working on [physicsjs](https://github.com/brenopelegrin/physicsjs), [flask-tasks-docker](https://github.com/brenopelegrin/flask-tasks-docker) and [spottedcaaso](https://github.com/brenopelegrin/spottedcaaso)  
@@ -133,10 +135,5 @@ There isn't anything here, yet.
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
 
 
