@@ -19,7 +19,7 @@
  
 
 
-- 🔭 I’m currently working on [physicsjs](https://github.com/brenopelegrin/physicsjs), [flask-tasks-docker](https://github.com/brenopelegrin/flask-tasks-docker) and [spottedcaaso](https://github.com/brenopelegrin/spottedcaaso)  
+- 🔭 I’m currently working on [physicsjs](https://github.com/brenopelegrin/physicsjs), [pytasks](https://github.com/brenopelegrin/pytasks) and [spottedcaaso](https://github.com/brenopelegrin/spottedcaaso)  
   
 
 - 🌱 I’m currently learning front-end and back-end web development  
