@@ -5,7 +5,7 @@
 </div>
   
 
-### <div align="center">I'm Breno, an undergrad student in Computational Physics at University of São Paulo that codes some cool stuff  👨‍💻</div>  
+### <div align="center">I'm Breno, an undergrad student of Computational Physics at University of São Paulo that codes some stuff  👨‍💻</div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=brenopelegrin&&style=flat-square" align="center" />
@@ -19,10 +19,10 @@
  
 
 
-- 🔭 I’m currently working on [physicsjs](https://github.com/brenopelegrin/physicsjs), [pytasks](https://github.com/brenopelegrin/pytasks) and [sancaevents](https://github.com/brenopelegrin/sancaevents)  
+- 🔭 I’m currently working on some private projects.
   
 
-- 🌱 I’m currently learning front-end and back-end web development  
+- 🌱 I’m currently learning front-end and back-end web development and doing stuff in Qt.
   
 
 - ⚡ Fun fact: I'm also into some embedded systems projects in C and C++  
