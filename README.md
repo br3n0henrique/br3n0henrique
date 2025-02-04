@@ -19,8 +19,11 @@
  
 
 
-- 🔭 I’m currently working on some private projects for CIERMag and developing a Qt widget for scientific use, named [scientific-spinbox](https://gitlab.com/dpizetta/scientific-spinbox).
-  
+- 🔭 I’m currently working on some private projects for CIERMag and developing a Qt widget for scientific use, named [scientific-spinbox](https://gitlab.com/dpizetta/pqwidget).
+
+
+- 🔭 I'm currently in a internship program at RealCloud, where I study Cloud Computing and prepare for AWS certifications.
+
 
 - 🌱 I’m currently learning front-end and back-end web development, DevOps and doing some stuff in Qt.
   
